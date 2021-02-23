@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a349aeff-e0d3-4494-8f30-74a2fbdeb264" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hackathon-JPAAgro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hackathon-JPAAgro.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +37,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613993315413</updated>
-      <workItem from="1613993317204" duration="1345000" />
+      <workItem from="1613993317204" duration="1980000" />
+      <workItem from="1614021085697" duration="66000" />
+      <workItem from="1614021413287" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/code/serie_temporal_rede_recorrente.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
