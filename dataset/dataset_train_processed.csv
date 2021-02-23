@@ -1,6 +1,5 @@
 negotiation_date,sold_price,product,day,month,year
 2014-01-01,0.0,,1,1,2014
-2014-01-02,0.0,,2,1,2014
 2014-01-03,0.0,,3,1,2014
 2014-01-04,0.0,,4,1,2014
 2014-01-05,0.0,,5,1,2014
@@ -108,7 +107,6 @@ negotiation_date,sold_price,product,day,month,year
 2014-05-20,0.0,,20,5,2014
 2014-05-22,0.0,,22,5,2014
 2014-05-23,0.0,,23,5,2014
-2014-06-01,292.0,Polpa Cítrica,1,6,2014
 2014-06-02,344.25,Polpa Cítrica,2,6,2014
 2014-06-03,453.0,Polpa Cítrica,3,6,2014
 2014-06-04,0.0,,4,6,2014
@@ -135,7 +133,6 @@ negotiation_date,sold_price,product,day,month,year
 2014-07-20,0.0,,20,7,2014
 2014-08-01,280.0,Polpa Cítrica,1,8,2014
 2014-08-02,0.0,,2,8,2014
-2014-08-03,460.0,Polpa Cítrica,3,8,2014
 2014-08-04,528.33,Polpa Cítrica,4,8,2014
 2014-08-05,0.0,,5,8,2014
 2014-08-06,327.5,Polpa Cítrica,6,8,2014
@@ -153,7 +150,6 @@ negotiation_date,sold_price,product,day,month,year
 2014-09-03,0.0,,3,9,2014
 2014-09-04,525.0,Polpa Cítrica,4,9,2014
 2014-09-05,0.0,,5,9,2014
-2014-09-06,335.0,Polpa Cítrica,6,9,2014
 2014-09-07,320.0,Polpa Cítrica,7,9,2014
 2014-09-08,293.5,Polpa Cítrica,8,9,2014
 2014-09-09,309.56,Polpa Cítrica,9,9,2014
@@ -179,7 +175,6 @@ negotiation_date,sold_price,product,day,month,year
 2014-11-03,0.0,,3,11,2014
 2014-11-04,475.0,Polpa Cítrica,4,11,2014
 2014-11-05,0.0,,5,11,2014
-2014-11-06,310.0,Polpa Cítrica,6,11,2014
 2014-11-07,305.0,Polpa Cítrica,7,11,2014
 2014-11-08,300.67,Polpa Cítrica,8,11,2014
 2014-11-09,302.5,Polpa Cítrica,9,11,2014
@@ -359,7 +354,6 @@ negotiation_date,sold_price,product,day,month,year
 2014-30-09,310.25,Polpa Cítrica,30,9,2014
 2014-30-10,260.33,Polpa Cítrica,30,10,2014
 2014-30-11,286.67,Polpa Cítrica,30,11,2014
-2014-31-01,314.64,Polpa Cítrica,31,1,2014
 2014-31-05,315.25,Polpa Cítrica,31,5,2014
 2014-31-07,307.12,Polpa Cítrica,31,7,2014
 2014-31-08,315.0,Polpa Cítrica,31,8,2014
@@ -429,7 +423,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-04-04,0.0,,4,4,2015
 2015-04-05,0.0,,5,4,2015
 2015-04-06,0.0,,6,4,2015
-2015-04-07,265.0,Polpa Cítrica,7,4,2015
 2015-04-08,254.0,Polpa Cítrica,8,4,2015
 2015-04-09,253.33,Polpa Cítrica,9,4,2015
 2015-04-10,267.5,Polpa Cítrica,10,4,2015
@@ -454,7 +447,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-05-17,0.0,,17,5,2015
 2015-05-24,0.0,,24,5,2015
 2015-06-01,310.0,Polpa Cítrica,1,6,2015
-2015-06-02,365.0,Polpa Cítrica,2,6,2015
 2015-06-03,373.33,Polpa Cítrica,3,6,2015
 2015-06-04,0.0,,4,6,2015
 2015-06-05,0.0,,5,6,2015
@@ -484,7 +476,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-08-02,0.0,,2,8,2015
 2015-08-03,0.0,,3,8,2015
 2015-08-04,351.67,Polpa Cítrica,4,8,2015
-2015-08-05,347.5,Polpa Cítrica,5,8,2015
 2015-08-06,0.0,,6,8,2015
 2015-08-07,267.5,Polpa Cítrica,7,8,2015
 2015-08-08,238.0,Polpa Cítrica,8,8,2015
@@ -499,7 +490,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-09-02,382.9,Polpa Cítrica,2,9,2015
 2015-09-03,0.0,,3,9,2015
 2015-09-04,352.67,Polpa Cítrica,4,9,2015
-2015-09-05,336.0,Polpa Cítrica,5,9,2015
 2015-09-06,267.0,Polpa Cítrica,6,9,2015
 2015-09-07,268.33,Polpa Cítrica,7,9,2015
 2015-09-08,237.77,Polpa Cítrica,8,9,2015
@@ -526,7 +516,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-11-03,385.0,Polpa Cítrica,3,11,2015
 2015-11-04,364.0,Polpa Cítrica,4,11,2015
 2015-11-05,340.0,Polpa Cítrica,5,11,2015
-2015-11-06,262.5,Polpa Cítrica,6,11,2015
 2015-11-07,262.5,Polpa Cítrica,7,11,2015
 2015-11-08,247.69,Polpa Cítrica,8,11,2015
 2015-11-09,250.0,Polpa Cítrica,9,11,2015
@@ -724,7 +713,6 @@ negotiation_date,sold_price,product,day,month,year
 2015-30-08,250.0,Polpa Cítrica,30,8,2015
 2015-30-09,266.0,Polpa Cítrica,30,9,2015
 2015-30-10,275.29,Polpa Cítrica,30,10,2015
-2015-31-01,365.0,Polpa Cítrica,31,1,2015
 2015-31-03,370.0,Polpa Cítrica,31,3,2015
 2015-31-05,275.0,Polpa Cítrica,31,5,2015
 2015-31-07,260.03,Polpa Cítrica,31,7,2015
@@ -778,7 +766,6 @@ negotiation_date,sold_price,product,day,month,year
 2016-03-25,0.0,,25,3,2016
 2016-03-26,0.0,,26,3,2016
 2016-03-27,0.0,,27,3,2016
-2016-04-01,330.0,Polpa Cítrica,1,4,2016
 2016-04-02,358.75,Polpa Cítrica,2,4,2016
 2016-04-03,393.43,Polpa Cítrica,3,4,2016
 2016-04-04,432.5,Polpa Cítrica,4,4,2016
@@ -810,7 +797,6 @@ negotiation_date,sold_price,product,day,month,year
 2016-05-27,0.0,,27,5,2016
 2016-05-29,0.0,,29,5,2016
 2016-06-01,333.0,Polpa Cítrica,1,6,2016
-2016-06-02,346.25,Polpa Cítrica,2,6,2016
 2016-06-03,0.0,,3,6,2016
 2016-06-04,0.0,,4,6,2016
 2016-06-05,450.0,Polpa Cítrica,5,6,2016
@@ -853,7 +839,6 @@ negotiation_date,sold_price,product,day,month,year
 2016-09-02,0.0,,2,9,2016
 2016-09-03,421.25,Polpa Cítrica,3,9,2016
 2016-09-04,0.0,,4,9,2016
-2016-09-05,498.6,Polpa Cítrica,5,9,2016
 2016-09-06,413.33,Polpa Cítrica,6,9,2016
 2016-09-07,0.0,,7,9,2016
 2016-09-08,482.0,Polpa Cítrica,8,9,2016
@@ -881,7 +866,6 @@ negotiation_date,sold_price,product,day,month,year
 2016-11-02,351.25,Polpa Cítrica,2,11,2016
 2016-11-03,422.0,Polpa Cítrica,3,11,2016
 2016-11-04,0.0,,4,11,2016
-2016-11-05,496.52,Polpa Cítrica,5,11,2016
 2016-11-06,452.92,Polpa Cítrica,6,11,2016
 2016-11-07,431.0,Polpa Cítrica,7,11,2016
 2016-11-08,518.67,Polpa Cítrica,8,11,2016
@@ -1090,7 +1074,6 @@ negotiation_date,sold_price,product,day,month,year
 2016-30-09,617.2,Polpa Cítrica,30,9,2016
 2016-30-11,495.0,Polpa Cítrica,30,11,2016
 2016-30-12,555.0,Polpa Cítrica,30,12,2016
-2016-31-01,340.0,Polpa Cítrica,31,1,2016
 2016-31-03,420.0,Polpa Cítrica,31,3,2016
 2016-31-05,489.17,Polpa Cítrica,31,5,2016
 2016-31-08,535.67,Polpa Cítrica,31,8,2016
@@ -1148,7 +1131,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-03-19,0.0,,19,3,2017
 2017-03-25,0.0,,25,3,2017
 2017-03-26,0.0,,26,3,2017
-2017-04-01,740.0,Polpa Cítrica,1,4,2017
 2017-04-02,0.0,,2,4,2017
 2017-04-03,621.0,Polpa Cítrica,3,4,2017
 2017-04-04,630.0,Polpa Cítrica,4,4,2017
@@ -1187,7 +1169,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-05-28,0.0,,28,5,2017
 2017-06-01,651.25,Polpa Cítrica,1,6,2017
 2017-06-02,0.0,,2,6,2017
-2017-06-03,687.5,Polpa Cítrica,3,6,2017
 2017-06-04,612.5,Polpa Cítrica,4,6,2017
 2017-06-05,0.0,,5,6,2017
 2017-06-06,298.33,Polpa Cítrica,6,6,2017
@@ -1214,7 +1195,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-08-02,385.0,Polpa Cítrica,2,8,2017
 2017-08-03,370.0,Polpa Cítrica,3,8,2017
 2017-08-04,0.0,,4,8,2017
-2017-08-05,450.0,Polpa Cítrica,5,8,2017
 2017-08-06,288.01,Polpa Cítrica,6,8,2017
 2017-08-07,191.88,Polpa Cítrica,7,8,2017
 2017-08-08,191.25,Polpa Cítrica,8,8,2017
@@ -1226,7 +1206,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-09-02,845.0,Polpa Cítrica,2,9,2017
 2017-09-03,567.5,Polpa Cítrica,3,9,2017
 2017-09-04,0.0,,4,9,2017
-2017-09-05,422.5,Polpa Cítrica,5,9,2017
 2017-09-06,286.0,Polpa Cítrica,6,9,2017
 2017-09-07,145.0,Polpa Cítrica,7,9,2017
 2017-09-08,187.08,Polpa Cítrica,8,9,2017
@@ -1251,7 +1230,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-11-02,395.0,Polpa Cítrica,2,11,2017
 2017-11-03,680.0,Polpa Cítrica,3,11,2017
 2017-11-04,595.0,Polpa Cítrica,4,11,2017
-2017-11-05,391.68,Polpa Cítrica,5,11,2017
 2017-11-06,0.0,,6,11,2017
 2017-11-07,180.0,Polpa Cítrica,7,11,2017
 2017-11-08,199.0,Polpa Cítrica,8,11,2017
@@ -1455,7 +1433,6 @@ negotiation_date,sold_price,product,day,month,year
 2017-30-10,211.43,Polpa Cítrica,30,10,2017
 2017-30-11,267.14,Polpa Cítrica,30,11,2017
 2017-30-12,272.31,Polpa Cítrica,30,12,2017
-2017-31-01,745.0,Polpa Cítrica,31,1,2017
 2017-31-03,493.12,Polpa Cítrica,31,3,2017
 2017-31-05,292.14,Polpa Cítrica,31,5,2017
 2017-31-07,205.91,Polpa Cítrica,31,7,2017
@@ -1470,12 +1447,11 @@ negotiation_date,sold_price,product,day,month,year
 2018-01-06,428.0,Polpa Cítrica,6,1,2018
 2018-01-07,426.25,Polpa Cítrica,7,1,2018
 2018-01-08,408.12,Polpa Cítrica,8,1,2018
-2018-01-09,424.0,Polpa Cítrica,9,1,2018
+2018-01-09,0.0,,9,1,2018
 2018-01-10,526.25,Polpa Cítrica,10,1,2018
 2018-01-11,519.44,Polpa Cítrica,11,1,2018
 2018-01-12,447.14,Polpa Cítrica,12,1,2018
 2018-01-28,0.0,,28,1,2018
-2018-02-01,272.5,Polpa Cítrica,1,2,2018
 2018-02-02,268.82,Polpa Cítrica,2,2,2018
 2018-02-03,313.33,Polpa Cítrica,3,2,2018
 2018-02-04,455.0,Polpa Cítrica,4,2,2018
@@ -1575,7 +1551,6 @@ negotiation_date,sold_price,product,day,month,year
 2018-07-11,417.0,Polpa Cítrica,11,7,2018
 2018-07-12,473.0,Polpa Cítrica,12,7,2018
 2018-08-01,270.0,Polpa Cítrica,1,8,2018
-2018-08-02,271.25,Polpa Cítrica,2,8,2018
 2018-08-03,313.33,Polpa Cítrica,3,8,2018
 2018-08-04,0.0,,4,8,2018
 2018-08-05,426.67,Polpa Cítrica,5,8,2018
@@ -1588,7 +1563,6 @@ negotiation_date,sold_price,product,day,month,year
 2018-08-12,456.11,Polpa Cítrica,12,8,2018
 2018-09-01,266.79,Polpa Cítrica,1,9,2018
 2018-09-02,284.8,Polpa Cítrica,2,9,2018
-2018-09-03,280.0,Polpa Cítrica,3,9,2018
 2018-09-04,472.61,Polpa Cítrica,4,9,2018
 2018-09-05,426.67,Polpa Cítrica,5,9,2018
 2018-09-06,428.33,Polpa Cítrica,6,9,2018
@@ -1620,7 +1594,6 @@ negotiation_date,sold_price,product,day,month,year
 2018-11-03,0.0,,3,11,2018
 2018-11-04,406.67,Polpa Cítrica,4,11,2018
 2018-11-05,418.75,Polpa Cítrica,5,11,2018
-2018-11-06,444.17,Polpa Cítrica,6,11,2018
 2018-11-07,440.0,Polpa Cítrica,7,11,2018
 2018-11-08,430.83,Polpa Cítrica,8,11,2018
 2018-11-09,448.75,Polpa Cítrica,9,11,2018
@@ -1910,7 +1883,6 @@ negotiation_date,sold_price,product,day,month,year
 2019-05-13,0.0,,13,5,2019
 2019-05-19,0.0,,19,5,2019
 2019-05-26,0.0,,26,5,2019
-2019-06-01,465.0,Polpa Cítrica,1,6,2019
 2019-06-02,543.7,Polpa Cítrica,2,6,2019
 2019-06-03,0.0,,3,6,2019
 2019-06-04,606.67,Polpa Cítrica,4,6,2019
@@ -2036,6 +2008,5 @@ negotiation_date,sold_price,product,day,month,year
 2019-30-05,353.33,Polpa Cítrica,30,5,2019
 2019-30-06,316.67,Polpa Cítrica,30,6,2019
 2019-30-07,350.0,Polpa Cítrica,30,7,2019
-2019-31-01,552.5,Polpa Cítrica,31,1,2019
 2019-31-05,331.42,Polpa Cítrica,31,5,2019
 2019-31-07,315.0,Polpa Cítrica,31,7,2019
